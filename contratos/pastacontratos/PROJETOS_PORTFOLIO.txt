@@ -1,0 +1,16 @@
+
+
+Criar portfólio responsivo (HTML/CSS/JS/PYTHON):
+	Projetos:
+
+Calculadora ( HTML/CSS/JS )
+
+Teclado ( HTML/CSS/JS )
+
+Back-End ( PYTHON )
+
+Envios de e-mail ( PYTHON ) - Criar layout de contato ( HTML/CSS/JS ).
+
+Site Zenjo ( HTML/CSS/JS/PYTHON )
+
+Usando MySQL?
